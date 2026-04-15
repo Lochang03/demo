@@ -1,2 +1,3 @@
 # demo
-my first repo
+My first repo 
+Author - Lochan G
